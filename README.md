@@ -10,4 +10,4 @@ Fast forward to today, the year 2023. We stand at another historical turning poi
 
 So, what will be the "life energy" of this new age? What will be the most valuable resource? That's why we're trying to build Reiki, a platform that aims to answer these questions by merging creativity with data value.
 
-\
+
