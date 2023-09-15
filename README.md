@@ -1,5 +1,5 @@
 ---
-description: Reiki is the data, the knowledge, and the experience
+Reiki is the data, the knowledge, and the experience
 ---
 
 # Welcome to Reiki !
