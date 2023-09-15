@@ -3,7 +3,7 @@
 ## About Reiki
 
 * [Welcome to Reiki !](README.md)
-* [What is Reiki？（Old）](about-reiki/what-is-reiki-old.md)
+* [What is Reiki？](about-reiki/what-is-reiki.md)
 * [Problems Reiki Aims to Solve](about-reiki/problems-reiki-aims-to-solve.md)
 * [Our Vision](about-reiki/our-vision.md)
 
