@@ -10,3 +10,4 @@ Click Explore Bots:
 
 The bot roster can assist you in effortlessly finding the bot you're interested in. Simply select the tags you prefer or sort the bots by trending or creation time. Afterwards, you can engage in conversation with the bot(s) of your choice.
 
+<figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>

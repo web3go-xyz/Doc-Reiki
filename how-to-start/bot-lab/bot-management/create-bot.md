@@ -13,7 +13,7 @@ Choose a name for your bot that will be used in chat and help others discover it
 
 **Field 2: Language**
 
-Select the language for the bot chatting page display. This setting applies when integrating the bot with other channels.
+Select the language for the bot chatting page display. This setting also applies when integrating the bot with other channels.
 
 **Field 3: Response Type**
 
@@ -25,9 +25,9 @@ Write a brief introduction that users will see on your bot's name card.
 
 **Field 5: Public to Reiki**
 
-Decide whether your bot should be visible to everyone. If set to public, others can discover and chat with your bot.
+Decide whether your bot should be visible to everyone. If set to public, others can discover and chat with your bot. Also, you need to select a category or add tags to your bot.
 
-
+<figure><img src="../../../.gitbook/assets/image (20).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -35,7 +35,9 @@ Decide whether your bot should be visible to everyone. If set to public, others 
 
 ## **More Settings**
 
-The basic setting of the bot is done, but you still have more settings to take your bot customization to the next level.
+The basic settings of the bot are complete, but there are still more settings available to take your bot customization to the next level. Click any button you're interested in and elevate your bot customization.
+
+<figure><img src="../../../.gitbook/assets/image (21).png" alt=""><figcaption></figcaption></figure>
 
 ### **Description**
 
@@ -47,23 +49,25 @@ The greeting is the the initial sentence through which your bot interacts with u
 
 Provide a more detailed description of the bot's background, story, personality, hobbies, and more.
 
-_Auto-generate:_
-
-&#x20;An easier approach is to utilize the auto-generate feature. Simply inform Reiki about the desired bot type, and Reiki will work its magic to create the bot. For additional tutorials, please refer to OpenAI's official website: [Introduction - OpenAI API](https://platform.openai.com/docs/introduction/overview)
+<figure><img src="../../../.gitbook/assets/image (22).png" alt=""><figcaption></figcaption></figure>
 
 
 
-### **Data**
+### **Dataset**
 
-Link data from your database to equip the bot with knowledge. Once this data is parsed, the bot will become knowledgeable and capable of answering questions based on the provided information.
+Connect the dataset from your data repository to empower the bot with knowledge. Once this data is parsed, the bot will become knowledgeable and capable of answering questions based on the provided information.
 
+<figure><img src="../../../.gitbook/assets/1695284778415.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../../../.gitbook/assets/1695284821897.png" alt=""><figcaption></figcaption></figure>
+
+###
 
 ### **Appearance**
 
 Explore various combinations of body shape, color, and emotions to create the desired appearance for your bot.
 
-
+<figure><img src="../../../.gitbook/assets/image (23).png" alt=""><figcaption></figcaption></figure>
 
 ### **Integration**
 

@@ -8,6 +8,5 @@ This means that on all channels, the total credits used by user messages and bot
 
 Normally, each character is counted as one credit in GPT-3.5. Longer inputs and outputs will consume more credits accordingly. Additionally, the number of credits consumed may vary depending on the specific models you choose.
 
-Currently, the credits are renewed at the start of every calendar month.
+Currently, the credits are renewed at the start of every calendar month. You'll be able to see your available credit once you enter Bot Lab
 
-When you first enter this page, it will be blank, prompting you to create your first bot.
