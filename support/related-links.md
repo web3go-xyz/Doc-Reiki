@@ -16,7 +16,8 @@ Reiki is built on the foundation of Web3Go and works in conjunction with Analyti
 
 ## Analytix
 
-
+* Website: [https://analytix.web3go.xyz](https://analytix.web3go.xyz/layout)
+* Twitter: [https://twitter.com/Analytix\_Web3Go](https://twitter.com/Analytix\_Web3Go)
 
 
 
