@@ -38,4 +38,4 @@ After the embedding and indexing process, your dataset will be ready for the bot
 
 You can easily manage your data under each dataset. Edit or delete the data as needed. If you're unsatisfied with the data, click the edit button to re-segment it.
 
-![](../../.gitbook/assets/1695634893089.png)
+<figure><img src="../../.gitbook/assets/1695634893089.png" alt=""><figcaption></figcaption></figure>
