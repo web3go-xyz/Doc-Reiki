@@ -18,6 +18,7 @@
     * [Create bot](how-to-start/bot-lab/bot-management/create-bot.md)
     * [Deployment Service](how-to-start/bot-lab/bot-management/deployment-service.md)
   * [Dataset Management](how-to-start/bot-lab/dataset-management.md)
+  * [Maximize creative power](how-to-start/bot-lab/maximize-creative-power.md)
 * [Gold Leaves Market](how-to-start/gold-leaves-market/README.md)
   * [Welcome Gift](how-to-start/gold-leaves-market/welcome-gift.md)
   * [Complete Profile](how-to-start/gold-leaves-market/complete-profile.md)

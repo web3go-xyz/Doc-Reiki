@@ -6,7 +6,7 @@ Reiki calculates credits based on the input and output of each bot's deployed ch
 \
 This means that on all channels, the total credits used by user messages and bot responses combined cannot exceed 200,000. For instance, if you deploy your bot to both a website and a Discord server, they would share the 200,000 credit limit.
 
-Normally, each character is counted as one credit in GPT-3.5. Longer inputs and outputs will consume more credits accordingly. Additionally, the number of credits consumed may vary depending on the specific models you choose.
+Normally, each character is counted as one credit in GPT-3.5. Longer inputs and outputs will consume more credits accordingly. Additionally, the number of credits consumed may vary depending on the specific models you choose.&#x20;
 
-Currently, the credits are renewed at the start of every calendar month. You'll be able to see your available credit once you enter Bot Lab
+Currently, the credits are renewed every 30 days, starting from the first day of your bot creation date. You'll be able to see your available credit once you enter Bot Lab
 
