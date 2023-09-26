@@ -20,7 +20,9 @@ Start by naming your dataset and uploading one or more files.
 
 <figure><img src="../../.gitbook/assets/1695634694386.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/1695634721511.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+
 
 The following file formats are currently supported: txt, html, markdown, xlsx, and pdf. Each file can be a maximum of 15MB in size.
 
