@@ -37,7 +37,7 @@ User input/question content
 
 The user identifier, defined by the developer, must ensure uniqueness within the app.
 
-<pre data-title="Request" data-overflow="wrap"><code><strong>POST/chat-messages
+<pre class="language-markup" data-title="Request" data-overflow="wrap"><code class="lang-markup"><strong>POST/chat-messages
 </strong>
 curl --location --request POST 'https://reiki-dev.web3go.xyz/ai/v1/chat-messages' \
 --header 'Authorization: Bearer ENTER-YOUR-SECRET-KEY' \
@@ -53,7 +53,7 @@ curl --location --request POST 'https://reiki-dev.web3go.xyz/ai/v1/chat-messages
 
 blocking
 
-<pre class="language-json" data-title="Response" data-overflow="wrap"><code class="lang-json"><strong>{  "answer": "Hi, is there anything I can help you?",  
+<pre class="language-markup" data-title="Response" data-overflow="wrap"><code class="lang-markup"><strong>{  "answer": "Hi, is there anything I can help you?",  
 </strong><strong>"conversation_id": "45701982-8118-4bc5-8e9b-64562b4555f2",  
 </strong><strong>"created_at": 1679587005,  
 </strong><strong>"id": "059f87d9-15c0-473a-870c-fde95cdcc1e4"}
@@ -62,7 +62,7 @@ blocking
 streaming
 
 {% code title="Response" overflow="wrap" %}
-```streaming
+```markup
   data: {"id": "5ad4cb98-f0c7-4085-b384-88c403be6290", "answer": " I", "created_at": 1679586595}  data: {"id": "5ad4cb98-f0c7-4085-b384-88c403be6290", "answer": " I", "created_at": 1679586595}
 ```
 {% endcode %}
@@ -93,7 +93,7 @@ like or dislike, null is undo
 
 The user identifier, defined by the developer, must ensure uniqueness within the app.
 
-<pre data-title="Request" data-overflow="wrap"><code><strong>POST/messages/{message_id}/feedbacks
+<pre class="language-markup" data-title="Request" data-overflow="wrap"><code class="lang-markup"><strong>POST/messages/{message_id}/feedbacks
 </strong><strong>
 </strong>curl --location --request POST 'https://reiki-dev.web3go.xyz/ai/v1/messages/{message_id}/feedbacks \
  --header 'Authorization: Bearer ENTER-YOUR-SECRET-KEY' \
@@ -105,7 +105,7 @@ The user identifier, defined by the developer, must ensure uniqueness within the
 </code></pre>
 
 {% code title="Response" %}
-```json
+```markup
 {  "has_more": false,  "data": [    {      "id": "WAz8eIbvDR60rouK",      "conversation_id": "xgQQXg3hrtjh7AvZ",      "inputs": {},      "query": "...",      "answer": "...",      "feedback": "like",      "created_at": 692233200    },    {      "id": "hSIhXBhNe8X1d8Et"      // ...    }  ]}
 ```
 {% endcode %}
@@ -138,7 +138,7 @@ How many chats are returned in one request
 
 The user identifier, defined by the developer, must ensure uniqueness within the app.
 
-<pre data-title="Request" data-overflow="wrap"><code>GET/messages
+<pre class="language-markup" data-title="Request" data-overflow="wrap"><code class="lang-markup">GET/messages
 
 <strong>curl --location --request GET 'https://reiki-dev.web3go.xyz/ai/v1/messages?user=abc-123&#x26;conversation_id='\
 </strong> --header 'Authorization: Bearer ENTER-YOUR-SECRET-KEY'
@@ -147,7 +147,7 @@ The user identifier, defined by the developer, must ensure uniqueness within the
 
 
 {% code title="Response" overflow="wrap" %}
-```json
+```markup
 {  "has_more": false,  "data": [    {      "id": "WAz8eIbvDR60rouK",      "username": "FrankMcCallister",      "phone_number": "1-800-759-3000",      "avatar_url": "https://assets.protocol.chat/avatars/frank.jpg",      "display_name": null,      "conversation_id": "xgQQXg3hrtjh7AvZ",      "created_at": 692233200    },    {      "id": "hSIhXBhNe8X1d8Et"      // ...    }  ]}
 ```
 {% endcode %}
@@ -177,7 +177,7 @@ How many chats are returned in one request
 The user identifier, defined by the developer, must ensure uniqueness within the app.
 
 {% code title="Request" overflow="wrap" %}
-```
+```markup
 GET/conversations
 
 curl --location --request GET 'https://reiki-dev.web3go.xyz/ai/v1/conversations?user=abc-123&last_id=&limit=20'
@@ -185,7 +185,7 @@ curl --location --request GET 'https://reiki-dev.web3go.xyz/ai/v1/conversations?
 {% endcode %}
 
 {% code title="Response" %}
-```json
+```markup
 {  "limit": 20,  "has_more": false,  "data": [    {      "id": "10799fb8-64f7-4296-bbf7-b42bfbe0ae54",      "name": "New chat",      "inputs": {          "book": "book",          "myName": "Lucy"      },      "status": "normal",      "created_at": 1679667915    },    {      "id": "hSIhXBhNe8X1d8Et"      // ...    }  ]}
 ```
 {% endcode %}
@@ -210,7 +210,7 @@ New name
 
 The user identifier, defined by the developer, must ensure uniqueness within the app.
 
-<pre data-title="Request" data-overflow="wrap"><code>POST/conversations/{converation_id}/name
+<pre class="language-markup" data-title="Request" data-overflow="wrap"><code class="lang-markup">POST/conversations/{converation_id}/name
 
 <strong>curl --location --request POST 'https://reiki-dev.web3go.xyz/ai/v1/conversations/name' \
 </strong>--header 'Authorization: Bearer ENTER-YOUR-SECRET-KEY' \
@@ -222,7 +222,7 @@ The user identifier, defined by the developer, must ensure uniqueness within the
 </code></pre>
 
 {% code title="Response" %}
-```json
+```markup
 {  "result": "success"}
 ```
 {% endcode %}
@@ -246,7 +246,7 @@ The user identifier, defined by the developer, must ensure uniqueness within the
 
 
 {% code title="Request" overflow="wrap" %}
-```
+```markup
 DELETE/conversations/{converation_id}
 
 curl --location --request DELETE 'https://reiki-dev.web3go.xyz/ai/v1/conversations/{conversation_id}' \
@@ -259,7 +259,7 @@ curl --location --request DELETE 'https://reiki-dev.web3go.xyz/ai/v1/conversatio
 {% endcode %}
 
 {% code title="Response" %}
-```json
+```markup
 {  "result": "success"}
 ```
 {% endcode %}
@@ -281,14 +281,14 @@ Retrieve configured Input parameters, including variable names, field names, typ
 The user identifier, defined by the developer, must ensure uniqueness within the app.
 
 {% code title="Request" overflow="wrap" %}
-```
+```markup
 GET/parameters
 curl--location --request GET 'https://reiki-dev.web3go.xyz/ai/v1/parameters?user=abc-123'
 ```
 {% endcode %}
 
 {% code title="Response" overflow="wrap" %}
-```json
+```markup
 {  "introduction": "nice to meet you",  "variables": [    {      "key": "book",      "name": "book",      "description": null,      "type": "string",      "default": null,      "options": null    },    {      // ...    }  ]}
 ```
 {% endcode %}
