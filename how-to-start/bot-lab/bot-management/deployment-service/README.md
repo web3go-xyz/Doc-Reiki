@@ -11,7 +11,7 @@ Normally, each character is counted as one credit in GPT-3.5. Longer inputs and 
 Currently, the credits are renewed every 30 days, starting from the first day of your bot creation date. You'll be able to see your available credit once you enter Bot Lab.\
 
 
-<figure><img src="../../../.gitbook/assets/1695634563233.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../.gitbook/assets/1695634563233.png" alt=""><figcaption></figcaption></figure>
 
 ### **Integration**
 
@@ -25,8 +25,8 @@ To incorporate a bubble onto your website, copy and paste the provided code into
 
 #### Discord
 
-To on board your bot to discord server, please check [tutorial ](https://web3go.notion.site/Onboard-your-bot-to-Discord-server-049fb2762ea44852b4745c34831f8da8?pvs=25)here.
+To on board your bot to discord server, please check [tutorial ](./#discord)here.
 
 #### API Integraton:
 
-yunjian 给文件
+To on board your bot using API, please check [tutorial ](api.md)here.
