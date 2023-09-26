@@ -53,7 +53,7 @@ curl --location --request POST 'https://reiki-dev.web3go.xyz/ai/v1/chat-messages
 
 blocking
 
-<pre class="language-json" data-title="Response"><code class="lang-json"><strong>{  "answer": "Hi, is there anything I can help you?",  
+<pre class="language-json" data-title="Response" data-overflow="wrap"><code class="lang-json"><strong>{  "answer": "Hi, is there anything I can help you?",  
 </strong><strong>"conversation_id": "45701982-8118-4bc5-8e9b-64562b4555f2",  
 </strong><strong>"created_at": 1679587005,  
 </strong><strong>"id": "059f87d9-15c0-473a-870c-fde95cdcc1e4"}
@@ -61,7 +61,7 @@ blocking
 
 streaming
 
-{% code title="Response" %}
+{% code title="Response" overflow="wrap" %}
 ```streaming
   data: {"id": "5ad4cb98-f0c7-4085-b384-88c403be6290", "answer": " I", "created_at": 1679586595}  data: {"id": "5ad4cb98-f0c7-4085-b384-88c403be6290", "answer": " I", "created_at": 1679586595}
 ```
@@ -93,7 +93,7 @@ like or dislike, null is undo
 
 The user identifier, defined by the developer, must ensure uniqueness within the app.
 
-<pre data-title="Request"><code><strong>POST/messages/{message_id}/feedbacks
+<pre data-title="Request" data-overflow="wrap"><code><strong>POST/messages/{message_id}/feedbacks
 </strong><strong>
 </strong>curl --location --request POST 'https://reiki-dev.web3go.xyz/ai/v1/messages/{message_id}/feedbacks \
  --header 'Authorization: Bearer ENTER-YOUR-SECRET-KEY' \
@@ -138,7 +138,7 @@ How many chats are returned in one request
 
 The user identifier, defined by the developer, must ensure uniqueness within the app.
 
-<pre data-title="Request"><code>GET/messages
+<pre data-title="Request" data-overflow="wrap"><code>GET/messages
 
 <strong>curl --location --request GET 'https://reiki-dev.web3go.xyz/ai/v1/messages?user=abc-123&#x26;conversation_id='\
 </strong> --header 'Authorization: Bearer ENTER-YOUR-SECRET-KEY'
@@ -146,7 +146,7 @@ The user identifier, defined by the developer, must ensure uniqueness within the
 
 
 
-{% code title="Response" %}
+{% code title="Response" overflow="wrap" %}
 ```json
 {  "has_more": false,  "data": [    {      "id": "WAz8eIbvDR60rouK",      "username": "FrankMcCallister",      "phone_number": "1-800-759-3000",      "avatar_url": "https://assets.protocol.chat/avatars/frank.jpg",      "display_name": null,      "conversation_id": "xgQQXg3hrtjh7AvZ",      "created_at": 692233200    },    {      "id": "hSIhXBhNe8X1d8Et"      // ...    }  ]}
 ```
@@ -176,7 +176,7 @@ How many chats are returned in one request
 
 The user identifier, defined by the developer, must ensure uniqueness within the app.
 
-{% code title="Request" %}
+{% code title="Request" overflow="wrap" %}
 ```
 GET/conversations
 
@@ -210,7 +210,7 @@ New name
 
 The user identifier, defined by the developer, must ensure uniqueness within the app.
 
-<pre data-title="Request"><code>POST/conversations/{converation_id}/name
+<pre data-title="Request" data-overflow="wrap"><code>POST/conversations/{converation_id}/name
 
 <strong>curl --location --request POST 'https://reiki-dev.web3go.xyz/ai/v1/conversations/name' \
 </strong>--header 'Authorization: Bearer ENTER-YOUR-SECRET-KEY' \
@@ -245,7 +245,7 @@ The user identifier, defined by the developer, must ensure uniqueness within the
 
 
 
-{% code title="Request" %}
+{% code title="Request" overflow="wrap" %}
 ```
 DELETE/conversations/{converation_id}
 
@@ -280,14 +280,14 @@ Retrieve configured Input parameters, including variable names, field names, typ
 
 The user identifier, defined by the developer, must ensure uniqueness within the app.
 
-{% code title="Request" %}
+{% code title="Request" overflow="wrap" %}
 ```
 GET/parameters
 curl--location --request GET 'https://reiki-dev.web3go.xyz/ai/v1/parameters?user=abc-123'
 ```
 {% endcode %}
 
-{% code title="Response" %}
+{% code title="Response" overflow="wrap" %}
 ```json
 {  "introduction": "nice to meet you",  "variables": [    {      "key": "book",      "name": "book",      "description": null,      "type": "string",      "default": null,      "options": null    },    {      // ...    }  ]}
 ```
