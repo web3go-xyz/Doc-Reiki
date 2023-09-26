@@ -1,3 +1,0 @@
-# Create bot
-
-To reward

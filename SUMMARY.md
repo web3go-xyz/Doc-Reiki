@@ -25,7 +25,6 @@
   * [Welcome Gift](how-to-start/gold-leaves-market/welcome-gift.md)
   * [Complete Profile](how-to-start/gold-leaves-market/complete-profile.md)
   * [Daily Check In](how-to-start/gold-leaves-market/daily-check-in.md)
-  * [Create bot](how-to-start/gold-leaves-market/create-bot.md)
   * [Season 1 Referral Program](how-to-start/gold-leaves-market/season-1-referral-program.md)
   * [Share Conversations with Bots](how-to-start/gold-leaves-market/share-conversations-with-bots.md)
   * [Fundamentals Quiz](how-to-start/gold-leaves-market/fundamentals-quiz.md)
