@@ -37,7 +37,7 @@ User input/question content
 
 The user identifier, defined by the developer, must ensure uniqueness within the app.
 
-<pre data-title="Request"><code><strong>POST/chat-messages
+<pre data-title="Request" data-overflow="wrap"><code><strong>POST/chat-messages
 </strong>
 curl --location --request POST 'https://reiki-dev.web3go.xyz/ai/v1/chat-messages' \
 --header 'Authorization: Bearer ENTER-YOUR-SECRET-KEY' \
