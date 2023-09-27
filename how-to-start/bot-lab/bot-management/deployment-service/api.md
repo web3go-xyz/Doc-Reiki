@@ -91,7 +91,9 @@ like or dislike, null is undo
 
 The user identifier, defined by the developer, must ensure uniqueness within the app.
 
-<pre class="language-markup" data-title="Request" data-overflow="wrap"><code class="lang-markup">curl --location --request POST 'https://reiki-dev.web3go.xyz/ai/v1/messages/{message_id}/feedbacks \
+<pre class="language-markup" data-title="Request" data-overflow="wrap"><code class="lang-markup">
+curl --location --request POST  \
+'https://reiki-dev.web3go.xyz/ai/v1/messages/{message_id}/feedbacks \
  --header 'Authorization: Bearer ENTER-YOUR-SECRET-KEY' \
 --header 'Content-Type: application/json' \
 --data-raw '{
@@ -106,7 +108,8 @@ The user identifier, defined by the developer, must ensure uniqueness within the
   "has_more": false,  
   "data": [    
             {      
-              "id": "WAz8eIbvDR60rouK",      "conversation_id": "xgQQXg3hrtjh7AvZ",      
+              "id": "WAz8eIbvDR60rouK",
+              "conversation_id": "xgQQXg3hrtjh7AvZ",      
               "inputs": {},      
               "query": "...",      
               "answer": "...",      
