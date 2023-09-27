@@ -1,11 +1,5 @@
 # API
 
-For versatile conversational apps using a Q\&A format, call the chat-messages API to initiate dialogue. Maintain ongoing conversations by passing the returned conversation\_id. Response parameters and templates depend on LangGenius Prompt Eng. settings.
-
-
-
-***
-
 ```
 POST/chat-messages
 ```
@@ -266,29 +260,3 @@ curl --location --request DELETE 'https://reiki-dev.web3go.xyz/ai/v1/conversatio
 
 
 
-***
-
-`GET/parameters`
-
-### Obtain application parameter information
-
-Retrieve configured Input parameters, including variable names, field names, types, and default values. Typically used for displaying these fields in a form or filling in default values after the client loads.
-
-#### Query
-
-`user`   _string_
-
-The user identifier, defined by the developer, must ensure uniqueness within the app.
-
-{% code title="Request" overflow="wrap" %}
-```markup
-GET/parameters
-curl--location --request GET 'https://reiki-dev.web3go.xyz/ai/v1/parameters?user=abc-123'
-```
-{% endcode %}
-
-{% code title="Response" overflow="wrap" %}
-```markup
-{  "introduction": "nice to meet you",  "variables": [    {      "key": "book",      "name": "book",      "description": null,      "type": "string",      "default": null,      "options": null    },    {      // ...    }  ]}
-```
-{% endcode %}
