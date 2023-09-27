@@ -2,9 +2,7 @@
 
 ### What is Credit?
 
-Reiki calculates credits based on the input and output of each bot's deployed channels.  Each bot has a credit limit of 200,000 for all conversations across all deployed channels. However, there is no limit on Reiki's platform. \
-\
-This means that on all channels, the total credits used by user messages and bot responses combined cannot exceed 200,000. For instance, if you deploy your bot to both a website and a Discord server, they would share the 200,000 credit limit.
+There are an unlimited number of deployments available for the bot. However, there is a limit on the talking credits, which is set to 200,000. When you deploy the bot on different channels, the total credits across all channels, including REIKI, will be shared and capped at 200,000. Reiki calculates credits based on the input and output of each bot, meaning that longer inputs and outputs will consume more credits accordingly.
 
 Normally, each character is counted as one credit in GPT-3.5. Longer inputs and outputs will consume more credits accordingly. Additionally, the number of credits consumed may vary depending on the specific models you choose.&#x20;
 
