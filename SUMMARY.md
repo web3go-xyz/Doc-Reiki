@@ -35,6 +35,7 @@
 * [My Chat](how-to-start/my-chat/README.md)
   * [Pin Chat](how-to-start/my-chat/pin-chat.md)
   * [Send Message](how-to-start/my-chat/send-message.md)
+  * [Clear Context](how-to-start/my-chat/clear-context.md)
   * [Sharing and Introducing Bot](how-to-start/my-chat/sharing-and-introducing-bot.md)
   * [Provide feedback](how-to-start/my-chat/provide-feedback.md)
   * [Your Talking Power](how-to-start/my-chat/your-talking-power.md)
