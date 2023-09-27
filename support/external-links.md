@@ -1,6 +1,6 @@
 # External Links
 
-* Website: TBD
+* Website: [https://reiki.web3go.xyz/ ](https://reiki.web3go.xyz/)
 * Twitter: [https://twitter.com/Reiki\_Web3Go](https://twitter.com/Reiki\_Web3Go)
 * Medium: [https://web3go.medium.com/](https://web3go.medium.com/)
 * Discord: [https://discord.com/invite/NTrHSqyuRg](https://discord.com/invite/NTrHSqyuRg)

@@ -6,7 +6,7 @@ Reiki is built on the foundation of Web3Go and works in conjunction with Analyti
 
 ## Web3Go
 
-* Website: TBD
+* Website: [https://web3go.xyz/](https://web3go.xyz/)
 * Twitter: [https://twitter.com/Web3Go](https://twitter.com/Web3Go)
 * Medium: [https://web3go.medium.com/](https://web3go.medium.com/)
 * Discord: [https://discord.com/invite/NTrHSqyuRg](https://discord.com/invite/NTrHSqyuRg)
