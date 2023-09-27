@@ -1,11 +1,11 @@
 # API
 
+
+
+### Create chat message
 ```
 POST  /chat-messages
 ```
-
-### Create chat message
-
 Create a new conversation message or continue an existing dialogue.
 
 #### Request Body
@@ -59,19 +59,20 @@ blocking
 streaming
 
 
-```
+<pre class="language-markup" data-title="Response" data-overflow="wrap">
+<code class="lang-markup">
   data: {"id": "5ad4cb98-f0c7-4085-b384-88c403be6290", "answer": " I", "created_at": 1679586595} 
   
   data: {"id": "5ad4cb98-f0c7-4085-b384-88c403be6290", "answer": " I", "created_at": 1679586595}
-```
+</code></pre>
 
 ---
 
+
+### Message terminal user feedback, like
 ```
 POST  /messages/{message_id}/feedbacks
 ```
-### Message terminal user feedback, like
-
 Rate received messages on behalf of end-users with likes or dislikes. This data is visible in the Logs & Annotations page and used for future model fine-tuning.
 
 #### Path Params
@@ -100,7 +101,7 @@ The user identifier, defined by the developer, must ensure uniqueness within the
 </code></pre>
  
 
-``` 
+<pre class="language-markup" data-title="Response" data-overflow="wrap"><code class="lang-markup">
 {  
   "has_more": false,  
   "data": [    
@@ -116,19 +117,16 @@ The user identifier, defined by the developer, must ensure uniqueness within the
             }  
           ]
 }
-```
+</code></pre>
  
 
 ---
+ 
 
-
+### Get the chat history message
 ```
 GET  /messages
 ```
-
-
-### Get the chat history message
-
 The first page returns the latest `limit` bar, which is in reverse order.
 
 #### Query
@@ -149,15 +147,12 @@ How many chats are returned in one request
 
 The user identifier, defined by the developer, must ensure uniqueness within the app.
 
-<pre class="language-markup" data-title="Request" data-overflow="wrap"><code class="lang-markup">
-
-<strong>
+<pre class="language-markup" data-title="Request" data-overflow="wrap"><code class="lang-markup"> 
 curl --location --request GET 'https://reiki-dev.web3go.xyz/ai/v1/messages?user=abc-123&#x26;conversation_id='\
-</strong> --header 'Authorization: Bearer ENTER-YOUR-SECRET-KEY'
+  --header 'Authorization: Bearer ENTER-YOUR-SECRET-KEY'
 </code></pre>
  
-
-```markup
+<pre class="language-markup" data-title="Response" data-overflow="wrap"><code class="lang-markup"> 
 {
 	"has_more": false,
 	"data": [{
@@ -172,18 +167,18 @@ curl --location --request GET 'https://reiki-dev.web3go.xyz/ai/v1/messages?user=
 		"id": "hSIhXBhNe8X1d8Et"
 	}]
 }
-```
+</code></pre>
  
 
 ---
 
-```
-GET /conversations
-```
+
  
 
 ### Get conversation list
-
+```
+GET /conversations
+```
 Gets the session list of the current user. By default, the last 20 sessions are returned.
 
 #### Query
@@ -200,16 +195,12 @@ How many chats are returned in one request
 
 The user identifier, defined by the developer, must ensure uniqueness within the app.
 
-{% code title="Request" overflow="wrap" %}
-
-```markup
-
+<pre class="language-markup" data-title="Request" data-overflow="wrap">
+<code class="lang-markup">
 curl --location --request GET 'https://reiki-dev.web3go.xyz/ai/v1/conversations?user=abc-123&last_id=&limit=20'
-```
+</code></pre>
  
- 
-
-```markup
+<pre class="language-markup" data-title="Response" data-overflow="wrap"><code class="lang-markup"> 
 {
 	"limit": 20,
 	"has_more": false,
@@ -226,17 +217,18 @@ curl --location --request GET 'https://reiki-dev.web3go.xyz/ai/v1/conversations?
 		"id": "hSIhXBhNe8X1d8Et"
 	}]
 }
-```
+</code></pre>
  
 
 ---
 
-```
-POST  /conversations/{converation_id}/name
-```
  
 
 ### Conversation renaming
+
+```
+POST  /conversations/{converation_id}/name
+```
 
 Rename conversations; the name is displayed in multi-session client interfaces.
 
@@ -250,9 +242,7 @@ New name
 
 The user identifier, defined by the developer, must ensure uniqueness within the app.
 
-<pre class="language-markup" data-title="Request" data-overflow="wrap"><code class="lang-markup">POST/conversations/{converation_id}/name
-
-<strong>
+<pre class="language-markup" data-title="Request" data-overflow="wrap"><code class="lang-markup">
 curl --location --request POST 'https://reiki-dev.web3go.xyz/ai/v1/conversations/name' \
 </strong>--header 'Authorization: Bearer ENTER-YOUR-SECRET-KEY' \
 --header 'Content-Type: application/json' \
@@ -262,21 +252,20 @@ curl --location --request POST 'https://reiki-dev.web3go.xyz/ai/v1/conversations
 }'
 </code></pre>
 
-
-```markup
+<pre class="language-markup" data-title="Response" data-overflow="wrap"><code class="lang-markup">
 {  "result": "success"}
-```
+</code></pre>
 
 
 ---
 
-```
-DELETE /conversations/{converation_id}
-```
+
 
 
 ### Conversation deletion
-
+```
+DELETE /conversations/{converation_id}
+```
 Delete conversation.
 
 #### Request Body
@@ -286,7 +275,7 @@ Delete conversation.
 The user identifier, defined by the developer, must ensure uniqueness within the app.
 
 
-```markup
+<pre class="language-markup" data-title="Request" data-overflow="wrap"><code class="lang-markup">
 
 curl --location --request DELETE 'https://reiki-dev.web3go.xyz/ai/v1/conversations/{conversation_id}' \
 --header 'Authorization: Bearer ENTER-YOUR-SECRET-KEY' \
@@ -294,10 +283,10 @@ curl --location --request DELETE 'https://reiki-dev.web3go.xyz/ai/v1/conversatio
 --data-raw '{
  "user": "abc-123"
 }'
-```
+</code></pre>
 
 
-```markup
+<pre class="language-markup" data-title="Response" data-overflow="wrap"><code class="lang-markup">
 {  "result": "success"}
-```
+</code></pre>
 
