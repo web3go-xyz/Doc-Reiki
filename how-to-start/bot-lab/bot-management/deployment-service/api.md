@@ -66,7 +66,7 @@ streaming
 ```
 
 ---
----
+
 ```
 POST  /messages/{message_id}/feedbacks
 ```
@@ -120,7 +120,7 @@ The user identifier, defined by the developer, must ensure uniqueness within the
  
 
 ---
----
+
 
 ```
 GET  /messages
@@ -176,7 +176,7 @@ curl --location --request GET 'https://reiki-dev.web3go.xyz/ai/v1/messages?user=
  
 
 ---
----
+
 ```
 GET /conversations
 ```
@@ -230,7 +230,7 @@ curl --location --request GET 'https://reiki-dev.web3go.xyz/ai/v1/conversations?
  
 
 ---
----
+
 ```
 POST  /conversations/{converation_id}/name
 ```
@@ -269,7 +269,7 @@ curl --location --request POST 'https://reiki-dev.web3go.xyz/ai/v1/conversations
 
 
 ---
----
+
 ```
 DELETE /conversations/{converation_id}
 ```
