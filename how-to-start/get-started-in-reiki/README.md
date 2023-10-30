@@ -2,7 +2,7 @@
 
 ## What’s Reiki Passport? <a href="#f417" id="f417"></a>
 
-A Reiki passport is your gateway to the exciting world of DIN. It's more than just a record of your contributions to the network - it's a ticket to a world of rewards and benefits that will enhance your experience with DIN.&#x20;
+A Reiki passport is your gateway to the exciting world of Reiki. It's more than just a record of your contributions to the network - it's a ticket to a world of rewards and benefits that will enhance your experience with DIN.&#x20;
 
 Here are just a few of the many benefits you can look forward to with your passport:
 
