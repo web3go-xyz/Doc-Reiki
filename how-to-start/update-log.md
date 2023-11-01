@@ -18,3 +18,6 @@
 
     Furthermore, we have implemented noteworthy enhancements to the "My Chat" page. You now have the ability to conveniently access and review your complete chat history with your bot, facilitating a comprehensive and user-friendly browsing experience.
 
+#### November 2023
+
+* On November 1st, we onboarded the Google Log-in feature and redefine the benefits of holding Reiki's passport.
