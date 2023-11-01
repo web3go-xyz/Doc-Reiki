@@ -4,7 +4,7 @@ Welcome to Reiki! It's a platform for talented individuals to utilize and share 
 
 The Home page displays the most popular bots of recent times. They have something to say to you! Just click on the the cute creature's heads and start interacting with them.
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 Click Explore Bots:
 

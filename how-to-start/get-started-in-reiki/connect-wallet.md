@@ -4,6 +4,8 @@ By clicking the "Connect" button and signing in, you’re connected to Reiki.&#x
 
 Currently, we support Metamask, but we plan to integrate more wallets in the future.
 
-<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/image (3).png>)
+
+
+![](<../../.gitbook/assets/image (3) (1).png>)

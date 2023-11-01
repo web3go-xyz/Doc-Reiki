@@ -6,29 +6,5 @@ No more navigating through multiple screens or searching for specific interactio
 
 Enjoy the convenience of revisiting past conversations, reviewing shared information, and tracking your personal growth.&#x20;
 
-####
-
-
-
-#### Delete chat
-
-
-
-Come to talk to them and give us some feedback through hitting on like and dislike.
-
-<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
-
-Share bot&#x20;
-
-If you loves to introduce your bot to your friend, please click the bot's name card and click share button
-
-Share conversation
-
-If you loves to share you conversation with any bot, please click share button and select the message you want to share
-
-<figure><img src="../../.gitbook/assets/1687231347274.png" alt=""><figcaption></figcaption></figure>
-
-
-
 
 

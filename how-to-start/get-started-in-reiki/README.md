@@ -1,30 +1,33 @@
 # Get Started in Reiki
 
-## What’s Reiki Passport? <a href="#f417" id="f417"></a>
+## Let's start our Reiki journey <a href="#4f2b3b41-c9f7-4a1a-938b-29af52b81c4d" id="4f2b3b41-c9f7-4a1a-938b-29af52b81c4d"></a>
 
-A Reiki passport is your gateway to the exciting world of Reiki. It's more than just a record of your contributions to the network - it's a ticket to a world of rewards and benefits that will enhance your experience with DIN.&#x20;
+{% hint style="info" %}
+We create a series of tutorials to help you quickly understand Reiki. Follow the instructions below to dive into the AI-powered platform.
+{% endhint %}
 
-Here are just a few of the many benefits you can look forward to with your passport:
+## Reiki Tutorial <a href="#f3806fe9-99f3-4deb-a588-acc1556ebff5" id="f3806fe9-99f3-4deb-a588-acc1556ebff5"></a>
 
-* **Access to collect gold leaves:** As a Reiki passport holder, you can start collecting gold leaves, which are the Reiki's points. These points can be used to redeem a variety of rewards, including boosts to your passport traits, surprise airdrops, mystery boxes, titles, lotteries, and more!
-* **Proof of Contribution in Reiki:** By completing tasks on the Web3Go task board, you'll not only earn more gold leaves, but you'll also have the chance to collect new passport attributes. These attributes can boost your gold leaves and unlock new feature access, making your Reiki experience even better.&#x20;
-* **Premium product features：** With your Reiki passport, you'll gain access to Lumi, your Web3 smart friends. Lumi is an expert in various Web3 projects and can assist you with any questions you may have.  Ask them anything, you will get accurate answer instantly. We're sure Lumi will become your best friend in Web3.
-* **Future rewards:** As a Reiki's passport holder, you can look forward to future rewards like bonus rewards, surprise airdrops, mystery boxes, titles, lotteries, and more. We're constantly adding new rewards, so there's always something exciting to look forward to.
+* [<mark style="color:green;">Google Log in</mark>](google-log-in.md)
+* [<mark style="color:green;">Connect Wallet</mark>](connect-wallet.md)
+* [<mark style="color:green;">What is Reiki's Passport and how to obtain it</mark>](mint-reikis-passport.md)
+* [<mark style="color:green;">Explore bots</mark>](../explore-bots.md)
+* [<mark style="color:green;">How to create a bot</mark>](../bot-lab/bot-management/create-bot.md)
+* [<mark style="color:green;">How to manage your bots</mark>](../bot-lab/bot-management/)
+* [<mark style="color:green;">How to depoly your bot to a website/Discord</mark>](../bot-lab/bot-management/deployment-service/)
+* [<mark style="color:green;">How to use API</mark>](../bot-lab/bot-management/deployment-service/api.md)
+* [<mark style="color:green;">How to enhance your bot's knowledge</mark>](../bot-lab/dataset-management.md)
+* [<mark style="color:green;">How to unlock your bot's limitations</mark>](../bot-lab/maximize-creative-power.md)
+* [<mark style="color:green;">How to talk to a bot</mark>](../my-chat/send-message.md)
+* [<mark style="color:green;">What is clearing context</mark>](../my-chat/clear-context.md)
+* [<mark style="color:green;">How to share your bot</mark>](../my-chat/sharing-and-introducing-bot.md)
+* [<mark style="color:green;">How to boost your talking power</mark>](../my-chat/your-talking-power.md)
+* [<mark style="color:green;">What is Gold Leaves</mark>](../gold-leaves-market/)
+* [<mark style="color:green;">Introducing Daily Check-in program</mark>](../gold-leaves-market/daily-check-in.md)
+* [<mark style="color:green;">Introducing the Referral program</mark>](../gold-leaves-market/season-1-referral-program.md)
+* [<mark style="color:green;">Introducing the Fundamentals Quiz</mark>](../gold-leaves-market/fundamentals-quiz.md)
+* [<mark style="color:green;">How to check your gold leaves</mark>](../gold-leaves-market/check-gold-leaves.md)
+* [<mark style="color:green;">History of Limited-Time Campaign</mark>](../gold-leaves-market/limited-time-campaign.md)
 
-## Passport Attributies
 
-Your Reiki Passport contains several attributes that can help you earn more gold leaves and unlock new features on the platform. If you have participated in past campaigns, you may already have some great attributes that can give you a head start.&#x20;
-
-To view your attributes, simply log in to your Reiki account and check your passport  Here are some of the attributes that are currently available:
-
-
-
-* **Web3go Ultimate MVB NFT:** If you have successfully obtained the Web3go Ultimate MVB NFT, your gold leaves will be boosted by 15%.
-* **Early Bird Ticket:** If you have successfully locked in an early bird ticket, your gold leaves will be boosted by 10%
-* **Referral boost:** Our referral program is currently in full swing. The more invitees you refer, the more boost you will receive. For more details about the referral program, please check <mark style="color:blue;">here.</mark>
-* **More boosts coming soon:** : As we continue to iterate our products, we will launch more boosts to reward members who actively participate in our activities. Please stay tuned for updates!
-
-
-
-With your Reiki passport, you'll be a part of this community and have access to all of the tools you need to succeed in the world of Web3. So, what are you waiting for? Join us today and start your journey with Reiki. The possibilities are endless.&#x20;
 

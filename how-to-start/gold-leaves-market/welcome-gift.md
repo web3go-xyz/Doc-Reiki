@@ -1,6 +1,6 @@
 # Welcome Gift
 
-To claim your welcome gifts, you must first [mint a Reiki's Passport](../get-started-in-reiki/how-to-mint-passport.md). Once you have minted your passport and entered the task board, you will receive your welcome gift!&#x20;
+To claim your welcome gifts, you must first [mint a Reiki's Passport](broken-reference). Once you have minted your passport and entered the task board, you will receive your welcome gift!&#x20;
 
 Depending on the wallet address associated with your Reiki's Passport, you may receive different welcome gifts as a representation of our appreciation. These welcome gifts are designed to reward early participation and encourage engagement on the platform. They may include special bonus gold leaves or NFT attributes.&#x20;
 

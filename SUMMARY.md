@@ -10,8 +10,9 @@
 ## How to start
 
 * [Get Started in Reiki](how-to-start/get-started-in-reiki/README.md)
+  * [Google Log in](how-to-start/get-started-in-reiki/google-log-in.md)
   * [Connect Wallet](how-to-start/get-started-in-reiki/connect-wallet.md)
-  * [How to Mint Passport](how-to-start/get-started-in-reiki/how-to-mint-passport.md)
+  * [Mint Reiki's Passport](how-to-start/get-started-in-reiki/mint-reikis-passport.md)
 * [Explore Bots](how-to-start/explore-bots.md)
 * [Bot Lab](how-to-start/bot-lab/README.md)
   * [Bot Management](how-to-start/bot-lab/bot-management/README.md)
@@ -33,7 +34,6 @@
   * [Check Gold Leaves](how-to-start/gold-leaves-market/check-gold-leaves.md)
   * [Rule\&Policy](how-to-start/gold-leaves-market/rule-and-policy.md)
 * [My Chat](how-to-start/my-chat/README.md)
-  * [Pin Chat](how-to-start/my-chat/pin-chat.md)
   * [Send Message](how-to-start/my-chat/send-message.md)
   * [Clear Context](how-to-start/my-chat/clear-context.md)
   * [Sharing and Introducing Bot](how-to-start/my-chat/sharing-and-introducing-bot.md)
