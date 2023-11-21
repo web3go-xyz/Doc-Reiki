@@ -16,11 +16,15 @@
 
 ### **Configuration**
 
-1. After adding the bot to your discord server, you should be able to find the command `set_api_key` by typing slash key `/`.
+1. Switch to the Integration tab and locate "Deploy to Discord". Next, click on "Deploy to a new server".
+
+<figure><img src="../../../../.gitbook/assets/1700533544035.png" alt=""><figcaption></figcaption></figure>
+
+2. After adding the bot to your discord server, you should be able to find the command `set_api_key` by typing slash key `/`.
 
 <figure><img src="../../../../.gitbook/assets/1695699085721(1).png" alt=""><figcaption></figcaption></figure>
 
-2. Press `enter` key and paste your API key in the prompted input box. The bot should respond with `discord bot api key updated` .
+3. Press `enter` key and paste your API key in the prompted input box. The bot should respond with `discord bot api key updated` .
 
 <figure><img src="../../../../.gitbook/assets/1695699204406.png" alt=""><figcaption></figcaption></figure>
 
