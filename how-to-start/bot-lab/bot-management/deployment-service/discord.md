@@ -20,19 +20,23 @@
 
 <figure><img src="../../../../.gitbook/assets/1700533544035.png" alt=""><figcaption></figcaption></figure>
 
-2. After adding the bot to your discord server, you should be able to find the command `set_api_key` by typing slash key `/`.
+2. Select the server you want to add.
+
+<figure><img src="../../../../.gitbook/assets/image (24).png" alt=""><figcaption></figcaption></figure>
+
+3. After adding the bot to your discord server, you should be able to find the command `set_api_key` by typing slash key `/`.
 
 <figure><img src="../../../../.gitbook/assets/1695699085721(1).png" alt=""><figcaption></figcaption></figure>
 
-3. Press `enter` key and paste your API key in the prompted input box. The bot should respond with `discord bot api key updated` .
+4. Press `enter` key and paste your API key in the prompted input box. The bot should respond with `discord bot api key updated` .
 
 <figure><img src="../../../../.gitbook/assets/1695699204406.png" alt=""><figcaption></figcaption></figure>
 
-3. Add channel list where the bot can be active. typing slash key `/` again and find the command `add_allowed_channel`
+5. Add channel list where the bot can be active. typing slash key `/` again and find the command `add_allowed_channel`
 
 ![](../../../../.gitbook/assets/1695699167661.png)
 
-4. Click on `target_channel` to select the channel you want to add, if no channel was selected, this command will add the current channel you are using to allowed channel list.
+6. Click on `target_channel` to select the channel you want to add, if no channel was selected, this command will add the current channel you are using to allowed channel list.
 
 <figure><img src="../../../../.gitbook/assets/1695699243318.png" alt=""><figcaption></figcaption></figure>
 
