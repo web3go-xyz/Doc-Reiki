@@ -17,6 +17,7 @@
 * [Bot Lab](how-to-start/bot-lab/README.md)
   * [Bot Management](how-to-start/bot-lab/bot-management/README.md)
     * [Create bot](how-to-start/bot-lab/bot-management/create-bot.md)
+    * [Mint bot](how-to-start/bot-lab/bot-management/mint-bot.md)
     * [Deployment Service](how-to-start/bot-lab/bot-management/deployment-service/README.md)
       * [Discord](how-to-start/bot-lab/bot-management/deployment-service/discord.md)
       * [API](how-to-start/bot-lab/bot-management/deployment-service/api.md)

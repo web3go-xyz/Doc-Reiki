@@ -1,6 +1,6 @@
 # Limited-Time Campaign
 
-On our task board, we will hold limited-time campaigns that are co-hosted with other projects.&#x20;
+We will hold limited-time campaigns that are co-hosted with other projects.&#x20;
 
 #### Litentry to Secrect Puzzle
 
@@ -26,4 +26,5 @@ Join us for 'MantaStyle,' our fifth puzzle-solving campaign, taking place from A
 
 #### Yuliverse
 
-Experience the 'Yuliverse', our sixth puzzle-solving campaign, happening between August 21st and August 26th. Engage in an immersive puzzle game that not only entertains but also enhances your understanding of Yuliverse. Join us for an interactive and captivating adventure. For further details and comprehensive instructions, kindly refer to the attached [announcement](https://web3go.medium.com/web3go-din-beta-mission-6-yuliverse-saga-7ba23d0ce7e).
+Experience the 'Yuliverse', our sixth puzzle-solving campaign, happening between August 21st and August 26th. Engage in an immersive puzzle game that not only entertains but also enhances your understanding of Yuliverse. Join us for an interactive and captivating adventure. For further details and comprehensive instructions, kindly refer to the attached [announcement](https://web3go.medium.com/web3go-din-beta-mission-6-yuliverse-saga-7ba23d0ce7e).\
+\
