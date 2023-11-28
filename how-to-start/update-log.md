@@ -21,3 +21,4 @@
 #### November 2023
 
 * On November 1st, we onboarded the Google Log-in feature and redefine the benefits of holding Reiki's passport.
+* On November 28th, we onboarded the Mint Bot feature, transforming the bot into a real on-chain asset. It's just the first step, but it's definitely the most crucial one! Additionally, we're thrilled to announce the launch of BNB Eco Brain Don't miss out on the opportunity to participate! Check [here](https://reiki.web3go.xyz/ai-creathon).

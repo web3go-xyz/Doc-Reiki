@@ -1,6 +1,6 @@
 # Gold Leaves Market
 
-At Reiki, we're harnessing the power of community intelligence to revolutionize the way we interact with data. With Reiki's Passport, you will be able to access the Gole Leaves Market. For more information about Passport, please check [here](../get-started-in-reiki/mint-reikis-passport.md).
+At Reiki, we're harnessing the power of community intelligence to revolutionize the way we interact with data. With Reiki's Passport, you will be able to access the Gold Leaves Market. For more information about Passport, please check [here](../get-started-in-reiki/mint-reikis-passport.md).
 
 ## What is Gold Leaves
 
