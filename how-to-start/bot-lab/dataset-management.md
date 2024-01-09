@@ -10,7 +10,7 @@ On the page, you can easily view your current usage and limitations.
 
 Once you attach your document(s) for upload, Reiki will display the character count of all the attached documents.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/1695634614934.png" alt=""><figcaption></figcaption></figure>
 
@@ -22,7 +22,7 @@ Start by naming your dataset and uploading one or more files.
 
 <figure><img src="../../.gitbook/assets/1695634694386.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 

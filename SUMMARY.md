@@ -13,6 +13,7 @@
   * [Google Log in](how-to-start/get-started-in-reiki/google-log-in.md)
   * [Connect Wallet](how-to-start/get-started-in-reiki/connect-wallet.md)
   * [Mint Reiki's Passport](how-to-start/get-started-in-reiki/mint-reikis-passport.md)
+  * [Generate Wallet](how-to-start/get-started-in-reiki/generate-wallet.md)
 * [Explore Bots](how-to-start/explore-bots.md)
 * [Bot Lab](how-to-start/bot-lab/README.md)
   * [Bot Management](how-to-start/bot-lab/bot-management/README.md)

@@ -85,7 +85,7 @@ To on board your bot to discord server, please check [tutorial ](https://web3go.
 
 #### API Integraton:
 
-yunjian 给文件
+To on board your bot through API, please check [tutorial](deployment-service/api.md) here.
 
 
 

@@ -2,7 +2,7 @@
 
 Exciting news! We have introduced Gmail Log-in method for Reiki. Now, you can easily access your Reiki account by logging in with your Google email or Metamask wallet address.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 If you have previously connected your email to Reiki and it is a Gmail account, you can directly log in using your Gmail. This way, all your previous data will automatically sync up.
 
